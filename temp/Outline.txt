@@ -20,7 +20,7 @@ OUTLINE:
         Use it to connect with all of UHS!
 
         > Need help with homework? Join COURSE CHATS and find someone to help you out!
-        > Want to connect with your grade! Make use of the BATCH GROUPS!
+        > Want to connect with your entire grade! Make use of the BATCH GROUPS!
         > Seeking advice on Universities/Colleges? Why not ASK AN ALUM?
         > Getting bored at home? Find someone to game with in the ENTERTAINMENT category!
         > Searching for a new passion? Join CLUB CHATS of your liking!
@@ -72,3 +72,7 @@ OUTLINE:
     >MUSIC-COMMANDS
     >VR
         >ADD MORE BASED ON REQUIREMENTS (MAX 5)
+>EXECUTIVE
+    >CHAT
+    >VC
+    >VC
